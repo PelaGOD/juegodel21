@@ -13,5 +13,5 @@ open index.html
 ```
 #### o ingresando a 
 ```
-[link]https://pelagod.github.io/juegodel21/
+[link]:https://pelagod.github.io/juegodel21/
 ```
