@@ -7,7 +7,11 @@ se trata del juego de sacar 21 o menos contra la una maquina en donde vas pidien
 - html
 - CSS
 
-#### Para correr el juego:
+#### Para correr el juego clonado:
 ```
 open index.html
+```
+#### o ingresando a 
+```
+https://pelagod.github.io/juegodel21/
 ```
