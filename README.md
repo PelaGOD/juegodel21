@@ -11,7 +11,7 @@ se trata del juego de sacar 21 o menos contra la una maquina en donde vas pidien
 ```
 open index.html
 ```
-#### o ingresando a 
+#### o Link
 ```
-<`link`>:<https://pelagod.github.io/juegodel21/>
+[BlackJack](http://https://pelagod.github.io/juegodel21/ "juego BlackJack")
 ```
