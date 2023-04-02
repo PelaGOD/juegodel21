@@ -13,5 +13,5 @@ open index.html
 ```
 #### o Link
 ```
-http://https://pelagod.github.io/juegodel21/ "juego BlackJack"
+http://https://pelagod.github.io/juegodel21/
 ```
